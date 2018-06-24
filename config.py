@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://sarah:always@120.55.48.4/time_mgr?charset=utf8'
